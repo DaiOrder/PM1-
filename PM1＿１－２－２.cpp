@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello VisualStudioGit!\n";
-    std::cout << "GitHab Clone changrd\n";
+    std::cout << "Conflict changrd\n";
 
 }
 
